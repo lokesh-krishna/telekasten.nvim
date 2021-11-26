@@ -12,7 +12,7 @@ local vim = vim
 -- ----------------------------------------------------------------------------
 -- DEFAULT CONFIG
 -- ----------------------------------------------------------------------------
-local home = vim.fn.expand("~/zettelkasten")
+local home = vim.fn.expand("~/sync/zettelkasten")
 
 local ZkCfg = {
 	home = home,
